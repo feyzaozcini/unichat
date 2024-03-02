@@ -8,7 +8,7 @@ export default function Home() {
       Hello Unichat
       </p>
       <Button>
-        Click Me
+        Tıkla
         </Button>
       </div>
     
