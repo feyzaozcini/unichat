@@ -88,7 +88,7 @@ export const InitialModal = ()=>{
                 <Form {...form}>
                    <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
                      <div className="space-y-8 px-6">
-                        <div className="flex items-center justif-center text-center">
+                        <div className="flex items-center justify-center text-center">
                         <FormField
                          control={form.control}
                          name="imageUrl"
