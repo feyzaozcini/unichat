@@ -29,7 +29,7 @@ export default function RootLayout({
            enableSystem={false}
            storageKey="discord-theme">
           <ModalProvider/>
-        {children}     
+          {children}     
         </ThemeProvider>  
         </body>
       </html>
